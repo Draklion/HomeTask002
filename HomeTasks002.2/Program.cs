@@ -21,7 +21,6 @@
   Console.WriteLine($"Случайное число: {number}");
   Console.WriteLine($"Решение через строку: {calculator1(number)}");
   Console.WriteLine($"Решение через вычисление: {calculator2(number)}");
-
 }
 catch
 {
